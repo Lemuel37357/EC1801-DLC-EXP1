@@ -76,6 +76,8 @@ o	F
 5.	Verify that F = 1 whenever B and D are equal.
 6.	Verify that F = 0 whenever B and D are different.
 The waveform should agree with the truth table.
+<img width="1871" height="1044" alt="Screenshot 2026-11-10 143509" src="https://github.com/user-attachments/assets/5beb4cd7-2cca-42a0-a010-0f62fdd8cd29" />
+
  
 ### Expected Result
 The Boolean function
